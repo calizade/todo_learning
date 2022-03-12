@@ -9,7 +9,7 @@
 </template>
 <script>
 export default {
-    name: "App",
+    name: "Application",
     methods: {
         createTask(task) {
             this.tasks.push(task)
